@@ -46,7 +46,7 @@ Sau khi tạo xong dataset chúng ta sẽ đi tạo các encodings (hay embeddin
 Trong phần này file `encode_faces.py` được chạy để lưu các encodings và names (nếu cần ID thì bổ sung). Các bạn xem thêm file đó để hiểu hơn, mình có chú thích rất rõ từng phần. Các encodings và names được lưu ra file `encodings.pickle`.
 
 ### Bước 3. Nhận dạng khuôn mặt trong ảnh
-<img src="../images/toi_output.png" style="display:block; margin-left:auto; margin-right:auto">
+<img src="output/toi_output.png" style="display:block; margin-left:auto; margin-right:auto">
 
 *Ảnh đầu ra sau khi nhận diện*
 
